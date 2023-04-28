@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f08ba1-061f-40f3-b001-df67c48c9036" name="Changes" comment="" />
+    <list default="true" id="c4f08ba1-061f-40f3-b001-df67c48c9036" name="Changes" comment="add a solushion os hw2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OvNCk4b4Hil4Ja1CgvErrxJv6X" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,6 +44,25 @@
       <option name="presentableId" value="Default" />
       <updated>1682436971670</updated>
     </task>
+    <task id="LOCAL-00001" summary="add a solushion os hw2">
+      <created>1682437130261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682437130261</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add a solushion os hw2">
+      <created>1682437138447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682437138447</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add a solushion os hw2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a solushion os hw2" />
   </component>
 </project>
