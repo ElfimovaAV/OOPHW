@@ -4,8 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f08ba1-061f-40f3-b001-df67c48c9036" name="Changes" comment="add a solution of hw3">
-      <change afterPath="$PROJECT_DIR$/src/seminar4/Main.java" afterDir="false" />
+    <list default="true" id="c4f08ba1-061f-40f3-b001-df67c48c9036" name="Changes" comment="add a solution of hw4">
+      <change afterPath="$PROJECT_DIR$/src/seminar5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/models/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/models/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/models/TableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/presenters/BookingPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/presenters/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/presenters/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/presenters/ViewObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/views/BookingView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,19 +41,29 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2OvNCk4b4Hil4Ja1CgvErrxJv6X" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Андрей/Documents/Разработчик/Java/OOPhw&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Андрей/Documents/Разработчик/Java/OOPhw"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,14 +101,23 @@
       <option name="project" value="LOCAL" />
       <updated>1682683242053</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add a solution of hw4">
+      <created>1683036476160</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683036476160</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add a solushion os hw2" />
     <MESSAGE value="paste hw-1" />
     <MESSAGE value="add a solution of hw3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add a solution of hw3" />
+    <MESSAGE value="add a solution of hw4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a solution of hw4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -91,6 +125,41 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/seminar4/Main.java</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/Main.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/Main.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/Main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/seminar5/src/main/java/ru/geekbrains/Main.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
