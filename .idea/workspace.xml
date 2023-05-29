@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f08ba1-061f-40f3-b001-df67c48c9036" name="Changes" comment="add a solution of hw5" />
+    <list default="true" id="c4f08ba1-061f-40f3-b001-df67c48c9036" name="Changes" comment="add a solution of hw6">
+      <change afterPath="$PROJECT_DIR$/src/seminar7/observer/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar7/observer/JobAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar7/observer/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar7/observer/Master.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar7/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar7/observer/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar7/observer/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar7/observer/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar7/observer/Vacancy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,15 +49,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Андрей/Documents/Разработчик/Java/OOPhw&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Андрей/Documents/Разработчик/Java/OOPhw/src/seminar7"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Андрей\Documents\Разработчик\Java\OOPhw\src\seminar7" />
+      <recent name="C:\Users\Андрей\Documents\Разработчик\Java\OOPhw\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.seminar7.observer.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminar6.Program" />
       <module name="OOPhw" />
@@ -60,8 +77,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="seminar7.observer.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar7.observer.Program" />
+      <module name="OOPhw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminar7.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.seminar7.observer.Program" />
         <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
@@ -117,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683240575462</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add a solution of hw6">
+      <created>1685048807070</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685048807070</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add a solution of hw6">
+      <created>1685048813930</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685048813930</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -127,7 +172,8 @@
     <MESSAGE value="add a solution of hw3" />
     <MESSAGE value="add a solution of hw4" />
     <MESSAGE value="add a solution of hw5" />
-    <option name="LAST_COMMIT_MESSAGE" value="add a solution of hw5" />
+    <MESSAGE value="add a solution of hw6" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a solution of hw6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
